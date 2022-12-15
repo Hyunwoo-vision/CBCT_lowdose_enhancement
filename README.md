@@ -13,3 +13,7 @@
 - The flow of simulating low dose ct images is displayed below
 
 ![datasetflow](https://user-images.githubusercontent.com/65393045/207760298-e3450ce9-b44c-4273-959c-086e2b4871de.png)
+
+
+
+## Model architecture 
