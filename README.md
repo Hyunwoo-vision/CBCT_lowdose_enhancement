@@ -11,3 +11,5 @@
 - For this reason, imblance between normal dose dataset and low dose dataset is severe
 - Therefore we simulated low dose ct images from normal dose images for supervised learning
 - The flow of simulating low dose ct images is displayed below
+
+![datasetflow](https://user-images.githubusercontent.com/65393045/207760298-e3450ce9-b44c-4273-959c-086e2b4871de.png)
