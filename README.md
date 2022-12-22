@@ -20,3 +20,11 @@
 - Enhancement of lowdose CT task is related to super-resolution either in terms of restoring detail structures
 - So in this study we referenced the model which is SOTA in super-resolution and denoising field
 - The referenced model is RRDBnet(Residual in Residual Dense Block Network) which is displayed in below
+
+![model architecture](https://user-images.githubusercontent.com/65393045/209076157-65f19491-6c04-4d54-8123-e7c6ac375457.png)
+
+- RRDBnet is a SOTA super-resolution architecture preserving image's sharpness while denoising effectively
+- To reduce vram usage, pixel un-shuffle method was employed downsizing the input image size preserving whole pixel information
+
+
+## Training details
