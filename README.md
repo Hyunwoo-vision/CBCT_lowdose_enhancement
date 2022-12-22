@@ -17,3 +17,6 @@
 
 
 ## Model architecture 
+- Enhancement of lowdose CT task is related to super-resolution either in terms of restoring detail structures
+- So in this study we referenced the model which is SOTA in super-resolution and denoising field
+- The referenced model is RRDBnet(Residual in Residual Dense Block Network) which is displayed in below
